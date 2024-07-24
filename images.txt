@@ -1,1 +1,2 @@
 hpcaitech/pytorch-cuda:2.2.2-12.1.0
+pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
